@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hi
-=======
 Hello
->>>>>>> bbef540afec0eef5d338a60be809069b480c35ab
+
+How are you???
